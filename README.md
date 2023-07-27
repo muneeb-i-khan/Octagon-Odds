@@ -3,6 +3,7 @@
 ```bash
 cd OctagonOddsApp
 cd backend
+python3 -m venv venv
 source /path/to/venv/bin/activate
 ```
 ## Install requirements inside venv
